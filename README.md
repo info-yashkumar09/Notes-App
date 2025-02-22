@@ -12,3 +12,5 @@ A simple **Jetpack Compose**-based Notes App where users can add, edit, and dele
 - Kotlin  
 - Jetpack Compose  
 - Material 3
+
+# To use the App, directly got to the "apk-debug.apk" in main master branch and then Click "View raw"
